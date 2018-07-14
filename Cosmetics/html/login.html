@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="../css/common.css">
+		<link rel="stylesheet" type="text/css" href="../css/detailpage.css" />
+		<link rel="stylesheet" type="text/css" href="../css/homepage.css" />
+		<link rel="stylesheet" type="text/css" href="../css/login.css" />
+	</head>
+	<body>
+		<div id="app"></div>
+		<div id="box_wrap">
+			<h1>欢迎访问 11STREET</h1>
+			<div class="bottom">
+				<div class="left">
+					<h2>ID/密码登陆</h2>
+					<p>防止自动订阅<br/>输入底部的字符和数字</p>
+					<div class="show">
+						<span></span>
+						<button type="button" class="btn1">尝试另一组字符</button>
+					</div>
+					<input type="text" class="int"/>
+					<form>
+						<label>用户名 ID</label><input type="text" class="user put" name="username"/>
+						<input type="checkbox" class="check"><span>保存我的 ID</span><br />
+						<label class="mi">密码          </label><input type="password" class="pass put" name="password"/>
+						<button type="button" class="btn2">登陆</button>
+					</form>
+					<div class="last">
+						<a href="##">忘记 ID</a>
+						<a href="##">忘记密码</a>
+					</div>
+				</div>
+				<div class="right">
+					<h2>立即注册</h2>
+					<span>您还未创建 11STREET帐户？</span>
+					<p>在 11STREET网站上可免费创建帐户。<br/>创建账户后，您可以享受各种各样的客户福利，包括折扣和奖励。</p>
+					<div class="xian"></div>
+					<div class="a">
+						<a href="register.html">创建账户</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<img src="../img/foot.jpg" id="img">
+	</body>
+</html>
+<script src="../js/app.js"></script>
+<script src="../js/pool.js"></script>
+<script src="../js/ajax.js"></script>
+<script src="../js/head.js"></script>
+<script src="../js/search.js"></script>
+<script src="../js/func.js"></script>
+<script src="../js/nav.js"></script>
+<script>
+	new login();
+	function login(){
+		this.left=document.getElementById("box_wrap").getElementsByClassName("left")[0];
+		this._number=this.left.getElementsByClassName("show")[0].getElementsByTagName("span")[0];
+		this.btn=this.left.getElementsByClassName("show")[0].getElementsByClassName("btn1")[0];
+		this.denglu=this.left.getElementsByTagName("form")[0].getElementsByClassName("btn2")[0];
+		this.get1=this.left.getElementsByClassName("int")[0];
+		this.user=this.left.getElementsByTagName("form")[0].getElementsByClassName("user")[0];
+		this.pass=this.left.getElementsByTagName("form")[0].getElementsByClassName("pass")[0];
+		this.cook=this.left.getElementsByTagName("form")[0].getElementsByClassName("check")[0];
+		var _this=this;
+		
+		if(getCookie("day")){
+			this.cookie=JSON.parse(getCookie("day"));
+			this.user.value=this.cookie;
+		}
+		
+		
+		window.onload=function(){
+			_this.b="";
+			for(var i=0;i<5;i++){
+				_this.b+=parseInt(10*Math.random());
+			}
+			_this._number.innerHTML=_this.b;
+		}
+		
+		this.btn.onclick=function(){
+			_this.num();
+			
+		}
+		this.denglu.onclick=function(){
+			_this.last();
+		}
+		this.cook.onclick=function(){
+			_this.kie();
+		}
+	}
+	login.prototype.kie=function(){
+		if(this.cook.checked){
+			var cookie=JSON.stringify(this.user.value);
+			setCookie("day",cookie,7);
+		}
+	}
+	login.prototype.num=function(){	
+		this.a="";
+		for(var i=0;i<5;i++){
+			this.a+=parseInt(10*Math.random());
+		}
+		this._number.innerHTML=this.a;
+	}
+	login.prototype.last=function(){
+		this.get=this.get1.value;
+		this.username=this.user.value;
+		this._password=this.pass.value;
+		if(this.get!=this._number.innerHTML){
+			alert("验证码错误，请重新验证");
+			window.onload();
+			this.get1.value="";
+		}else{
+			ajax("get","../php/login.php",{username:this.username,password:this._password},function(data){
+				var _int1=document.getElementById("box_wrap").getElementsByClassName("left")[0].getElementsByClassName("user")[0];
+				var _int2=document.getElementById("box_wrap").getElementsByClassName("left")[0].getElementsByClassName("pass")[0];
+				if(data.status==0||data.status==2){
+					alert("用户名或密码错误");
+					_int1.value="";
+					_int2.value="";
+				}
+				if(data.status==1){
+					alert("登陆成功");
+					location.href="homepage.html";
+				}
+			})
+		}
+	}
+</script>

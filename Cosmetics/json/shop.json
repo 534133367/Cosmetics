@@ -1,0 +1,527 @@
+[
+	{
+		"image":"../img/shop1.jpg",
+		"content":"[Makmaks]夏季新款女装",
+		"price1":"￦12,900~",
+		"scale":"47%",
+		"price2":"￦6,900~",
+		"price3":"(￥42.48~)",
+		"id":"1"
+	} ,{
+		"image":"../img/shop2.jpg",
+		"content":"[LiQ] 洗衣液替换装 2.1L x6件+2个赠送",
+		"price1":"",
+		"scale":"",
+		"price2":"￦22,900~",
+		"price3":"(￥140.98~)",
+		"id":"2"
+	} ,{
+		"image":"../img/shop3.jpg",
+		"content":"[UptownHolic]春季新款",
+		"price1":"￦24,000~",
+		"scale":"21%",
+		"price2":"￦18,900~",
+		"price3":"(￥116.36~)",
+		"id":"3"
+	} ,{
+		"image":"../img/shop4.jpg",
+		"content":"[VIP] 欧乐B 牙刷 12入 16入系列+李斯特林",
+		"price1":"",
+		"scale":"",
+		"price2":"￦17,900~",
+		"price3":"(￥110.20~)",
+		"id":"4"
+	} ,{
+		"image":"../img/shop5.jpg",
+		"content":"[Bebezoo] 夏天最大",
+		"price1":"",
+		"scale":"",
+		"price2":"￦5,900~",
+		"price3":"(￥36.32~)",
+		"id":"5"
+	} ,{
+		"image":"../img/shop6.jpg",
+		"content":"[adidas] 阿迪达斯 太阳镜 sprung 4color 选一",
+		"price1":"",
+		"scale":"",
+		"price2":"￦39,000",
+		"price3":"(￥240.10)",
+		"id":"6"
+	} ,{
+		"image":"../img/shop7.jpg",
+		"content":"LOVCAT时尚女包",
+		"price1":"",
+		"scale":"",
+		"price2":"￦46,020~",
+		"price3":"(￥283.32~)",
+		"id":"7"
+	} ,{
+		"image":"../img/shop8.jpg",
+		"content":"[compagno] 人气帽衫&卫衣",
+		"price1":"￦45,000~",
+		"scale":"56%",
+		"price2":"￦19,900~",
+		"price3":"(￥122.51~)",
+		"id":"8"
+	} ,{
+		"image":"../img/shop9.jpg",
+		"content":"假期作业必需品 Hotuna 英国Brand 潜水鞋",
+		"price1":"",
+		"scale":"",
+		"price2":"￦4,900~",
+		"price3":"(￥30.17~)",
+		"id":"9"
+	} ,{
+		"image":"../img/shop10.jpg",
+		"content":"Season 阿迪达斯 短袖 短裤 棉 T 恤 T 恤 短袖衫",
+		"price1":"￦25,900~",
+		"scale":"4%",
+		"price2":"￦24,900~",
+		"price3":"(￥153.30~)",
+		"id":"10"
+	} ,{
+		"image":"../img/shop11.jpg",
+		"content":"[Makmaks]夏季新款女装",
+		"price1":"￦12,900~",
+		"scale":"47%",
+		"price2":" ￦6,900~",
+		"price3":"(￥42.48~)",
+		"id":"11"
+	} ,{
+		"image":"../img/shop12.jpg",
+		"content":"APPLEMANGO!春季新款日常生活装",
+		"price1":"￦10,000~",
+		"scale":"21%",
+		"price2":"￦7,900~",
+		"price3":"(￥48.64~)",
+		"id":"12"
+	}  ,{
+		"image":"../img/shop13.jpg",
+		"content":"夏款休闲裤",
+		"price1":"￦10,000~",
+		"scale":"31%",
+		"price2":"￦6,900~",
+		"price3":"(￥42.48~)",
+		"id":"13"
+	}  ,{
+		"image":"../img/shop14.jpg",
+		"content":"[Angtoo]夏季新款连衣裙",
+		"price1":"￦16,800~",
+		"scale":"24%",
+		"price2":"￦12,800~",
+		"price3":"(￥78.80~)",
+		"id":"14"
+	}  ,{
+		"image":"../img/shop15.jpg",
+		"content":"L.Lamo 夏天 短袖上衣 男女同款 4xl",
+		"price1":"",
+		"scale":"",
+		"price2":"￦9,800~",
+		"price3":"(￥60.33~)",
+		"id":"15"
+	} ,{
+		"image":"../img/shop16.jpg",
+		"content":"后 Jinhulhyung Jinjuljin45ml45ml 深深深度 精华素",
+		"price1":"",
+		"scale":"",
+		"price2":"￦107,000",
+		"price3":"(￥658.75)",
+		"id":"16"
+	} ,{
+		"image":"../img/shop17.jpg",
+		"content":"Holika holikaX不二家合作版彩妆",
+		"price1":"",
+		"scale":"",
+		"price2":"￦11,000~",
+		"price3":"(￥67.72~)",
+		"id":"17"
+	} ,{
+		"image":"../img/shop18.jpg",
+		"content":"[Make P:rem]护肤系列",
+		"price1":"",
+		"scale":"",
+		"price2":"￦13,000~",
+		"price3":"(￥80.03~)",
+		"id":"18"
+	} ,{
+		"image":"../img/shop19.jpg",
+		"content":"赛倪 44Face King Kit 童颜 Face 弹性",
+		"price1":"￦22,000~",
+		"scale":"30%",
+		"price2":"￦15,400~",
+		"price3":"(￥94.81~)",
+		"id":"19"
+	} ,{
+		"image":"../img/shop20.jpg",
+		"content":"Miba气垫 24g 粉底液",
+		"price1":"",
+		"scale":"",
+		"price2":"￦39,000",
+		"price3":"(￥240.10)",
+		"id":"20"
+	} ,{
+		"image":"../img/shop21.jpg",
+		"content":"BONSECE Oster 自动滑动智能手机 无线 充电支架",
+		"price1":"￦59,000",
+		"scale":"16%",
+		"price2":"￦49,800",
+		"price3":"(￥306.59)",
+		"id":"21"
+	} ,{
+		"image":"../img/shop22.jpg",
+		"content":"[21st Scooter] 炫彩滑板车",
+		"price1":"￦25,300~",
+		"scale":"10%",
+		"price2":"￦22,800~",
+		"price3":"(￥140.37~)",
+		"id":"22"
+	} ,{
+		"image":"../img/shop23.jpg",
+		"content":"[卡帕] KAPPA 卡帕 运动服 短裤 七分裤 打底裤 Karati 短袖T恤",
+		"price1":"￦10,000~",
+		"scale":"2%",
+		"price2":"￦9,800~",
+		"price3":"(￥60.33~)",
+		"id":"23"
+	} ,{
+		"image":"../img/shop24.jpg",
+		"content":"阿迪达斯 短裤/7分短裤/T恤/运动服",
+		"price1":"￦10,000~",
+		"scale":"1%",
+		"price2":"￦9,900~",
+		"price3":"(￥60.95~)",
+		"id":"24"
+	} ,{
+		"image":"../img/shop25.jpg",
+		"content":"3M 手套 SUPER 手柄200 Comfort手柄手柄 % 手柄 ASDNBR/PU顶",
+		"price1":"￦1,700~",
+		"scale":"10%",
+		"price2":"￦1,530~",
+		"price3":"(￥9.42~)",
+		"id":"25"
+	} ,{
+		"image":"../img/shop26.png",
+		"content":"麦馨白金咖啡320T+马克杯",
+		"price1":"￦35,000~",
+		"scale":"6%",
+		"price2":"￦32,900~",
+		"price3":"(￥202.55~)",
+		"id":"26"
+	} ,{
+		"image":"../img/shop27.jpg",
+		"content":"Loacker Wahhasas Napolataner 面霜 Kakao 17.2g 30uth",
+		"price1":"",
+		"scale":"",
+		"price2":"￦12,000",
+		"price3":"(￥73.88)",
+		"id":"27"
+	} ,{
+		"image":"../img/shop28.png",
+		"content":"麦馨白金/摩卡咖啡",
+		"price1":"￦43,510~",
+		"scale":"6%",
+		"price2":"￦40,900~",
+		"price3":"(￥251.80~)",
+		"id":"28"
+	} ,{
+		"image":"../img/shop29.jpg",
+		"content":"GNM奶蓟保肝护肝片",
+		"price1":"",
+		"scale":"",
+		"price2":"￦19,900",
+		"price3":"(￥122.51)",
+		"id":"29"
+	} ,{
+		"image":"../img/shop30.jpg",
+		"content":"[GNM自然的品格] 蛋白质减肥奶昔混合装2箱+瓶子1个",
+		"price1":"",
+		"scale":"",
+		"price2":"￦23,900",
+		"price3":"(￥147.14)",
+		"id":"30"
+	} ,{
+		"image":"../img/shop31.jpg",
+		"content":"宝松怡 夏季全棉尿布 + 泳圈",
+		"price1":"",
+		"scale":"",
+		"price2":"￦31,900",
+		"price3":"(￥196.39)",
+		"id":"31"
+	} ,{
+		"image":"../img/shop32.jpg",
+		"content":"[VIP] Viabiya 婴儿湿巾 原味 补水霜 带盖 10包",
+		"price1":"",
+		"scale":"",
+		"price2":"￦15,900~",
+		"price3":"(￥97.89~)",
+		"id":"32"
+	} ,{
+		"image":"../img/shop33.jpg",
+		"content":"清爽夏季松紧带/ 内裤尿布 2包/3包+游泳池尿布",
+		"price1":"",
+		"scale":"",
+		"price2":"￦36,900",
+		"price3":"(￥227.17)",
+		"id":"33"
+	} ,{
+		"image":"../img/shop34.jpg",
+		"content":"拿比赞纸尿裤 3包",
+		"price1":"",
+		"scale":"",
+		"price2":"￦28,000~",
+		"price3":"(￥172.38~)",
+		"id":"34"
+	} ,{
+		"image":"../img/shop35.jpg",
+		"content":"婴儿 儿童服装 救生衣 36种水玩",
+		"price1":"￦12,900~",
+		"scale":"16%",
+		"price2":"￦10,900~",
+		"price3":"(￥67.11~)",
+		"id":"35"
+	} ,{
+		"image":"../img/shop36.jpg",
+		"content":"[LiQ] 洗衣液替换装 2.1L x6件+2个赠送",
+		"price1":"",
+		"scale":"",
+		"price2":"￦22,900~",
+		"price3":"(￥140.98~)",
+		"id":"36"
+	} ,{
+		"image":"../img/shop37.jpg",
+		"content":"[VIP] 欧乐B 牙刷 12入 16入系列+李斯特林",
+		"price1":"",
+		"scale":"",
+		"price2":"￦17,900~",
+		"price3":"(￥110.20~)",
+		"id":"37"
+	} ,{
+		"image":"../img/shop38.jpg",
+		"content":"Duoderm超薄10x10cm 10枚 1盒子 创伤贴",
+		"price1":"￦17,380~",
+		"scale":"12%",
+		"price2":"￦15,300~",
+		"price3":"(￥94.19~)",
+		"id":"38"
+	} ,{
+		"image":"../img/shop39.jpg",
+		"content":"Seven Liner 高级小腿按摩器",
+		"price1":"",
+		"scale":"",
+		"price2":"￦147,000~",
+		"price3":"(￥905.01~)",
+		"id":"39"
+	} ,{
+		"image":"../img/shop40.jpg",
+		"content":"[Downy]超高浓缩衣物柔顺剂 1Lx3瓶",
+		"price1":"￦13,900",
+		"scale":"14%",
+		"price2":"￦11,900",
+		"price3":"(￥73.26)",
+		"id":"40"
+	} ,{
+		"image":"../img/shop41.jpg",
+		"content":"DongyangKemikal 冰箱整理容器 8P+谷物桶/大米桶1+1 套装",
+		"price1":"￦22,000~",
+		"scale":"8%",
+		"price2":"￦20,240~",
+		"price3":"(￥124.61~)",
+		"id":"41"
+	} ,{
+		"image":"../img/shop42.jpg",
+		"content":"Kitchen Art 陶瓷刀具",
+		"price1":"",
+		"scale":"",
+		"price2":"￦21,900",
+		"price3":"(￥134.83)",
+		"id":"42"
+	} ,{
+		"image":"../img/shop43.jpg",
+		"content":"星座 水杯 400ml+包 保温瓶 Thermos 水瓶",
+		"price1":"￦12,900",
+		"scale":"9%",
+		"price2":"￦11,800",
+		"price3":"(￥72.65)",
+		"id":"43"
+	} ,{
+		"image":"../img/shop44.jpg",
+		"content":"[阿曼特] Happy Sky 超细纤维 婴儿 屏蔽枕头套装 (2件)",
+		"price1":"",
+		"scale":"",
+		"price2":"￦24,900",
+		"price3":"(￥153.30)",
+		"id":"44"
+	} ,{
+		"image":"../img/shop45.jpg",
+		"content":"抗菌功能性枕芯",
+		"price1":"￦12,900~",
+		"scale":"44%",
+		"price2":"￦7,270~",
+		"price3":"(￥44.76~)",
+		"id":"45"
+	} ,{
+		"image":"../img/shop46.jpg",
+		"content":"USB 内存 8GB ~256GB Sandisk",
+		"price1":"￦10,000~",
+		"scale":"46%",
+		"price2":" ￦5,450~",
+		"price3":"(￥33.55~)",
+		"id":"46"
+	} ,{
+		"image":"../img/shop47.jpg",
+		"content":"特福搅拌机 料理机混合Pos Bl3051 Bl-3051",
+		"price1":"",
+		"scale":"",
+		"price2":"￦34,000",
+		"price3":"(￥209.32)",
+		"id":"47"
+	} ,{
+		"image":"../img/shop48.jpg",
+		"content":"TOSHIBA/东芝 CANVIO Advance 1TB 外置硬盘",
+		"price1":"",
+		"scale":"",
+		"price2":"￦74,900~",
+		"price3":"(￥461.12~)",
+		"id":"48"
+	} ,{
+		"image":"../img/shop49.jpg",
+		"content":"3+1 2018年 Fromb 便携式 风扇 魔法风暴 免提",
+		"price1":"￦24,800~",
+		"scale":"20%",
+		"price2":"￦19,800~",
+		"price3":"(￥121.90~)",
+		"id":"49"
+	} ,{
+		"image":"../img/shop50.jpg",
+		"content":"Hanil 风扇超风 遥控器 内增高 循环扇 DC 马达",
+		"price1":"￦43,000~",
+		"scale":"12%",
+		"price2":"￦37,900~",
+		"price3":"(￥233.33~)",
+		"id":"50"
+	} ,{
+		"image":"../img/shop51.jpg",
+		"content":"11st 热销 动物零食/小狗零食/罐装零食/口香糖",
+		"price1":"￦2,000~",
+		"scale":"8%",
+		"price2":"￦1,840~",
+		"price3":"(￥11.33~)",
+		"id":"51"
+	} ,{
+		"image":"../img/shop52.jpg",
+		"content":"[Goyu] Royalcanin 饲料 所有型号系列 Rair Fairs Bersian Norday 林甲 Bangal British Short 猫粮",
+		"price1":"￦31,000~",
+		"scale":"3%",
+		"price2":" ￦30,000~",
+		"price3":"dsada(￥184.69~)sd",
+		"id":"52"
+	} ,{
+		"image":"../img/shop53.jpg",
+		"content":"[食品] ProCat Catsrang 系列 Daehanfeed",
+		"price1":"",
+		"scale":"",
+		"price2":"￦23,900~",
+		"price3":"(￥147.14~)",
+		"id":"53"
+	} ,{
+		"image":"../img/shop54.jpg",
+		"content":"幼儿园",
+		"price1":"￦15,000~",
+		"scale":"34%",
+		"price2":"￦9,900~",
+		"price3":"(￥60.95~)",
+		"id":"54"
+	} ,{
+		"image":"../img/shop55.jpg",
+		"content":"[Natural Core] 有机宠物小狗饲料",
+		"price1":"￦35,350~",
+		"scale":"1%",
+		"price2":"￦35,000~",
+		"price3":"(￥215.48~)",
+		"id":"55"
+	}
+]
+
+
+    
+   
+    
+   
+    
+
+
+
+    
+    
+    
+    
+    
+
+
+    
+    
+    
+   
+
+
+    
+    
+    
+    
+   
+
+
+   
+    
+    
+    
+    
+
+
+    
+    
+   
+    
+    
+
+    
+    
+    
+   
+    
+
+
+    
+    
+    
+    
+    
+
+
+   
+    
+    
+    
+    
+
+
+
+    
+    
+    
+    
+    
+
+
+
+    
+    
+    
+    
+    
+   
+   
+    
+    
+    
+
